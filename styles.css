@@ -15,7 +15,7 @@ body {
 header {
     background-image: url('header-background.jpg');
     background-size: cover;
-    color: #fff;
+    color: black;
     padding: 50px;
     text-align: center;
 }
@@ -30,7 +30,7 @@ nav ul li {
 }
 
 nav a {
-    color: #fff;
+    color: black;
     text-decoration: none;
 }
 
